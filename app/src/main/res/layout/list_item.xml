@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/listItemLayout">
+    <ImageView
+        android:id="@+id/list_item_img"
+        style="@style/listItemImg" />
+        <RelativeLayout
+            android:id="@+id/text_container"
+            style="@style/textContainerLayout">
+            <TextView
+                android:id="@+id/name_text_view"
+                style="@style/nameTextView" />
+            <TextView
+                android:id="@+id/address_text_view"
+                style="@style/addressTextView" />
+        </RelativeLayout>
+    <TextView
+        android:id="@+id/description_text_view"
+        style="@style/descriptionTextView" />
+</LinearLayout>

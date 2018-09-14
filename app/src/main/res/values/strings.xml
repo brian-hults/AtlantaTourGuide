@@ -1,0 +1,336 @@
+<resources>
+    <string name="app_name">Atlanta Tour Guide</string>
+
+    <string name="category_brewerydistillery">Drinks</string>
+
+    <string name="category_marketrestaurant">Food</string>
+
+    <string name="category_parkmuseum">Parks and Rec</string>
+
+    <string name="category_sportstheater">Events</string>
+
+
+    <!-- Parks, Museums, and Exhibits Section -->
+
+    <string name="name_park_MLK">MLK National Historic Site</string>
+    <string name="description_park_MLK">The Martin Luther King Jr. National Historical Park
+        consists of several buildings in Atlanta, Georgia, including Martin Luther King Jr.\'s
+        boyhood home and the original Ebenezer Baptist Church, the church where King was baptized
+        and both his father Martin Luther King Sr. and he were pastors. These places, critical to
+        the interpretation of the life of Martin Luther King Jr. and his legacy as a leader of
+        the American Civil Rights Movement, were included in the park when it was established
+        on October 10, 1980.</string>
+    <string name="address_park_MLK">450 Auburn Ave NE, Atlanta, GA 30312</string>
+
+    <string name="name_park_Zoo">Zoo Atlanta</string>
+    <string name="description_park_zoo">Zoo Atlanta is an Association of Zoos and Aquariums
+        accredited zoological park in Atlanta, Georgia. It was founded in 1889 when a local
+        businessman purchased a bankrupt traveling circus and donated the animals to the city
+        of Atlanta. The zoo is currently one of four zoos in the USA housing giant pandas.</string>
+    <string name="address_park_zoo">800 Cherokee Avenue SE, Atlanta, GA 30315</string>
+
+    <string name="name_park_aquarium">Georgia Aquarium</string>
+    <string name="description_park_aquarium">The Georgia Aquarium is a public aquarium in Atlanta,
+        Georgia, USA. It houses more than a hundred thousand animals and represents several
+        thousand species, all of which reside in 10 million US gallons (38,000 m3) of marine and
+        salt water. It was the largest aquarium in the world from its opening in 2005
+        until 2012, when it was surpassed by Marine Life Park in Singapore. The Aquarium's notable
+        specimens include whale sharks, beluga whales, California sea lions, bottlenose dolphins,
+        and manta rays.</string>
+    <string name="address_park_aquarium">225 Baker St NW, Atlanta, GA 30313</string>
+    
+    <string name="name_park_coke">World of Coca-Cola</string>
+    <string name="description_park_coke">The World of Coca-Cola is a museum, located in Atlanta,
+        Georgia, showcasing the history of The Coca-Cola Company. The 20-acre complex
+        opened to the public on May 24, 2007, relocating to 121 Baker Street in Atlanta, just
+        blocks away from where John Pemberton created the original Coca-Cola formula. The museum
+        houses thousands of Coca-Cola artifacts and many exhibits including one about the 
+        secret formula of Coca-Cola.</string>
+    <string name="address_park_coke">121 Baker St NW, Atlanta, GA 30313</string>
+    
+    <string name="name_park_piedmont">Piedmont Park</string>
+    <string name="description_park_piedmont">Piedmont Park is an urban park in Atlanta, Georgia,
+        located about 1 mile (1.6 km) northeast of Downtown, between the Midtown and Virginia
+        Highland neighborhoods. Over the years, the park has also served as an athletic center 
+        for the city. Atlanta\'s first professional baseball team, the Atlanta Crackers, played 
+        in the park from 1902 to 1904. Several important intercollegiate rivalries were also 
+        forged in the park including the University of Georgia vs. Georgia Tech baseball rivalry 
+        and Georgia versus Auburn football which has been called the "Deep South\'s Oldest Rivalry".</string>
+    <string name="address_park_piedmont">400 Park Dr NE, Atlanta, GA 30306</string>
+    
+    <string name="name_park_beltline">The Beltline</string>
+    <string name="description_park_beltline">The BeltLine is a former railway corridor around the
+        core of Atlanta, Georgia, under development in stages as a multi-use trail. Some portions
+        are already complete, while others are still in a rough state but hikeable. Using existing
+        rail track easements, the BeltLine is designed to improve transportation, add green space,
+        and promote redevelopment. There are longer-term visions for streetcar or light-rail lines
+        along all or part of the corridor. The BeltLine plan was originally developed in 1999 as
+        a masters thesis by Georgia Tech student Ryan Gravel. It links city parks and
+        neighborhoods, but has also been used for temporary art installations. In 2013, the
+        project received a federal grant of $18 million to develop the southwest corridor.</string>
+    <string name="address_park_beltline">Atlanta, GA (multiple locations)</string>
+
+    <string name="name_park_botanical">Atlanta Botanical Garden</string>
+    <string name="description_park_botanical">The Atlanta Botanical Garden is a 30 acre botanical
+        garden incorporated in 1976 and located adjacent to Piedmont Park in Midtown Atlanta,
+        Georgia, United States. The garden hosts seasonal events and exhibits year round, and is 
+        famous for its Chihuly in the Garden and Lights in the Garden exhibits.</string>
+    <string name="address_park_botanical">1345 Piedmont Ave NE, Atlanta, GA 30309</string>
+    
+    <string name="name_park_woodruff">Woodruff Arts Center</string>
+    <string name="description_park_woodruff">Woodruff Arts Center is a visual and performing arts
+        center located in Atlanta, Georgia. The center houses three not-for-profit arts divisions
+        on one campus. Opened in 1968, the Woodruff Arts Center is home to the Alliance Theatre,
+        the Atlanta Symphony Orchestra, and the High Museum of Art.</string>
+    <string name="address_park_woodruff">1280 Peachtree Street Northeast, Atlanta, GA 30309</string>
+
+    <string name="name_park_fernbank">Fernbank Museum of Natural History</string>
+    <string name="description_park_fernbank">Fernbank Museum of Natural History, in Atlanta, is a
+        museum that presents exhibitions and programming about natural history that are meant to
+        entertain as well as educate the public. Its mission is to encourage a greater appreciation
+        of the planet and its people. Fernbank Museum has a number of permanent exhibitions and
+        regularly hosts temporary exhibitions in its expansive facility, designed by Graham Gund
+        Architects. Giants of the Mesozoic, on display in the atrium of Fernbank Museum, features
+        a 123-foot (37 m) long Argentinosaurus, the largest dinosaur ever classified; as well as
+        a Giganotosaurus. The permanent exhibition, A Walk Through Time in Georgia, tells the
+        twofold story of Georgia's natural history and the development of the planet.</string>
+    <string name="address_park_fernbank">767 Clifton Rd, Atlanta, GA 30307</string>
+
+
+    <!-- Sports and Theaters Section -->
+
+    <string name="name_theater_mercedes">Mercedes-Benz Stadium</string>
+    <string name="description_theater_mercedes">The Mercedes-Benz Stadium is a multi-purpose
+        retractable roof stadium located in Atlanta, Georgia. The home of the Atlanta Falcons
+        of the National Football League (NFL) and the Atlanta United FC of Major League Soccer
+        (MLS), it replaced the adjacent NFL indoor arena Georgia Dome (now demolished), the
+        Falcons\' home stadium from 1992 through 2016. Mercedes-Benz stadium holds the record
+        of the world\'s largest halo board and is one of few football stadiums with
+        retractable roofs. The stadium is owned by the state of Georgia through the Georgia
+        World Congress Center Authority, and operated by AMB Group, the parent organization of
+        the Falcons and Atlanta United. The total cost was estimated at $1.6 billion, as of
+        June 2016. The stadium officially opened on August 26, 2017 with a Falcons preseason
+        game against the Arizona Cardinals, despite the retractable roof system being
+        incomplete at the time.</string>
+    <string name="address_theater_mercedes">1 AMB Dr NW, Atlanta, GA 30313</string>
+
+    <string name="name_theater_philips">Philips Arena</string>
+    <string name="description_theater_philips">Philips Arena is a multi-purpose indoor arena
+        located in Atlanta, Georgia, and is home to the Atlanta Hawks, of the National Basketball
+        Association, and the Atlanta Dream, of the Women\'s National Basketball Association.
+        It also served as home to the National Hockey League\'s Atlanta Thrashers from 1999 to
+        2011, before the team moved to Winnipeg. It opened in 1999 at a cost of $213.5 million,
+        replacing the Omni Coliseum. It is owned by the Atlanta Fulton County Recreation Authority
+        and operated by Tony Ressler, who also, with a group of investors that includes Grant
+        Hill, owns the Hawks.</string>
+    <string name="address_theater_philips">1 Philips Dr, Atlanta, GA 30303</string>
+
+    <string name="name_theater_tabernacle">The Tabernacle</string>
+    <string name="description_theater_tabernacle">Tabernacle, is a mid-size concert hall
+        in the U.S. city of Atlanta. The Tabernacle has been a venue for notable acts, including
+        Guns N\' Roses, The Black Crowes, Adele, Eminem, Kendrick Lamar, Robbie Williams, Alice
+        in Chains, Bob Dylan, Prince and The New Power Generation, The 1975 and Atlanta\'s own
+        Mastodon, and Blackberry Smoke. Along with music concerts, the venue also holds many
+        comedy tours annually including Bob Saget, Lisa Lampanelli, Cheech and Chong and Stephen
+        Lynch. The Tabernacle is managed by concert promoter Live Nation and has a seating
+        capacity of 2,600 people.</string>
+    <string name="address_theater_tabernacle">152 Luckie St NW, Atlanta, GA 30303</string>
+
+    <string name="name_theater_center">Center Stage Theater</string>
+    <string name="description_theater_center">Center Stage is a mid-sized concert complex
+        comprising three separate venues located in Atlanta, Georgia. Originally known as
+        Theatre Atlanta, the concert hall was built in memorial to a young theater enthusiast.
+        Upon its opening in the fall of 1966, the building functioned as a performing arts
+        theater, but has since become primarily music-focused. In the 2000s, Center Stage
+        evolved dramatically and two new venues were added to the building. All three venues
+        feature a wide variety of musical acts, as well as comedy shows and theatrical
+        performances.</string>
+    <string name="address_theater_center">1374 West Peachtree Street Northwest, Atlanta, GA
+        30309</string>
+
+    <string name="name_theater_variety">Variety Playhouse</string>
+    <string name="description_theater_variety">The Variety Playhouse (originally known as the 
+        Euclid Theatre) is a music venue in Atlanta, Georgia, United States. It is located on 
+        Euclid Avenue and features a variety of music acts including rock, indie, electronic, 
+        funk, country, folk, bluegrass, jazz, blues and world music as well as other live 
+        shows.</string>
+    <string name="address_theater_variety">1099 Euclid Ave NE, Atlanta, GA 30307</string>
+    
+    <string name="name_theater_fox">The Fox Theater</string>
+    <string name="description_theater_fox">The Fox Theatre (often marketed as the Fabulous Fox),
+        a former movie palace, is a performing arts venue located at 660 Peachtree Street NE in
+        Midtown Atlanta, Georgia, and is the centerpiece of the Fox Theatre Historic District.
+        The theater was originally planned as part of a large Shrine Temple as evidenced by its
+        Moorish design. The 4,665 seat auditorium was ultimately developed as a lavish movie
+        theater in the Fox Theatres chain and opened in 1929. It hosts a variety of cultural
+        and artistic events including the Atlanta Ballet, a summer film series, and performances
+        by national touring companies of Broadway shows. The venue also hosts occasional concerts
+        by popular artists.</string>
+    <string name="address_theater_fox">660 W Peachtree St NW, Atlanta, GA 30308</string>
+
+    <string name="name_theater_eddie">Eddie\'s Attic</string>
+    <string name="description_theater_eddie">Eddie\'s Attic is a music club in Decatur, Georgia.
+        Founded in 1992 by Eddie Owen, it is a venue for both local musical talent and musicians
+        of some acclaim who often got their start in the Atlanta area. Artists who developed
+        their fanbase at Eddie\'s Attic include Shawn Mullins, Sugarland, Michelle Malone,
+        Justin Bieber, disappear fear, The Civil Wars, John Mayer and Crystal Bowersox. Eddie\'s
+        Attic also hosts a bi-annual songwriting contest, the Eddie's Attic Open Mic Shootout,
+        where musical acts from around the United States compete to win a $1000 prize. Former
+        winners of the contest include John Mayer, Shawn Mullins, Clay Cook, Jennifer Nettles
+        of Sugarland, Jennifer Daniels, The Brilliant Inventions and Whitney Monge.</string>
+    <string name="address_theater_eddie">515 N McDonough St, Decatur, GA 30030</string>
+
+
+
+    <!-- Restaurants and Markets Section-->
+
+    <string name="name_restaurant_ponce">Ponce City Market</string>
+    <string name="description_restaurant_ponce">Ponce City Market is a mixed-use development
+        located in a historic building in Atlanta, with national and local retail anchors,
+        restaurants, a food hall, boutiques and offices, and residential units. It is located
+        where the BeltLine crosses Ponce de Leon Avenue in the Old Fourth Ward where that
+        neighborhood touches the Virginia Highland, Poncey-Highland and Midtown neighborhoods.
+        The 2,100,000-square-foot (200,000 m2) building, one of the largest by volume in the
+        Southeast United States, was used by Sears, Roebuck and Co. from 1926–1987 and later
+        by the City of Atlanta as "City Hall East". The building's lot covers 16 acres
+        (65,000 m2). It officially opened on August 25, 2014. It was listed on the
+        National Register of Historic Places in 2016.</string>
+    <string name="address_restaurant_ponce">675 Ponce De Leon Ave NE, Atlanta, GA 30308</string>
+
+    <string name="name_restaurant_krog">Krog Street Market</string>
+    <string name="description_restaurant_krog">Krog Street Market is a 9-acre mixed-use development
+        in Atlanta, located along the BeltLine trail at Edgewood Avenue in Inman Park which opened
+        in Summer 2014. The complex is centered on a 12,000-square-foot, west coast-style market
+        and restaurants, and also includes up to 300 apartments. The marketplace has been planned
+        to have four or five restaurants and merchants such as florists, cheesemakers, butchers,
+        and bakers under one roof.</string>
+    <string name="address_restaurant_krog">99 Krog St NE, Atlanta, GA 30307</string>
+
+    <string name="name_restaurant_vortex">The Vortex Bar and Grill</string>
+    <string name="description_restaurant_vortex">The Vortex Bar and Grill is a restaurant in
+        Atlanta, Georgia, with two locations, in Midtown on Peachtree Street, originally opened
+        in 1992, and Little Five Points, opened in 1996 and distinguished by the large "Laughing
+        Skull" entrance. The restaurant is famous for its burgers and has been featured on
+        Season 1 of the Travel Channel\'s Man vs. Food.</string>
+    <string name="address_restaurant_vortex">438 Moreland Ave NE, Atlanta, GA 30307</string>
+    
+    <string name="name_restaurant_parkers">Parker\'s on Ponce</string>
+    <string name="description_restaurant_parkers">An upscale steakhouse decorated with cool colors 
+        and dark woods, with sides like lobster mac and cheese, and a high-end selection of beers
+        and spirits.</string>
+    <string name="address_restaurant_parkers">116 E Ponce de Leon Ave, Decatur, GA 30030</string>
+    
+    <string name="name_restaurant_brick">Brick Store Pub</string>
+    <string name="description_restaurant_brick">A neighborhood pub serving fish and chips and
+        burgers with an extensive beer menu and an upstairs Belgian Bar.</string>
+    <string name="address_restaurant_brick">125 E Court Square, Decatur, GA 30030</string>
+
+    <string name="name_restaurant_caravaca">Caravaca Market</string>
+    <string name="description_restaurant_caravaca">Harry\'s Caravaca Market is the newest, most
+        creative gourmet food hall in Atlanta. Our 6000 square-foot space includes various food
+        stations, a provisions market area and an outdoor patio. The food hall features seasonal
+        cultural events focused on US regions and other countries. Caravaca Market not only offers
+        locally sourced international flavors, but a place for Atlanta residents and visitors to
+        gather and socialize. </string>
+    <string name="address_restaurant_caravaca">782 Peachtree Street NE, Atlanta, GA 30308</string>
+
+    <string name="name_restaurant_cypress">Cypress Street Pint and Plate</string>
+    <string name="description_restaurant_cypress">A rotating lineup of beers on tap pairs with
+        hearty American grub at a relaxed tavern with a patio.</string>
+    <string name="address_restaurant_cypress">817 W Peachtree St NW, Atlanta, GA 30308</string>
+
+    <string name="name_restaurant_jct">JCT Kitchen</string>
+    <string name="description_restaurant_jct">Updated Southern fare in hip space with late-night 
+        live music, plus upstairs bar with skyline view.</string>
+    <string name="address_restaurant_jct">1198 Howell Mill Rd #18, Atlanta, GA 30318</string>
+    
+    <string name="name_restaurant_star">Star Provisions Market and Cafe</string>
+    <string name="description_restaurant_star">Star Provisions Market and Cafe is the culinary
+        dream shop for the gourmet expert and novice alike. Featuring individual markets for
+        baked goods, cheese, meats, seafood, locally roasted coffee, and other gourmet food items,
+        an array of gifts and cookware, and a bustling breakfast, lunch and dinner counter, Star
+        Provisions sources and stocks the highest quality products, including fresh cut meats,
+        fish, cheese, freshly baked breads, and sweets.</string>
+    <string name="address_restaurant_star">1460 Ellsworth Industrial Blvd, Atlanta, GA 30318</string>
+    
+    <string name="name_restaurant_hf">Holeman and Finch Public House</string>
+    <string name="description_restaurant_hf">Modern gastropub with new takes on vintage eats such
+        as deviled eggs, plus custom cocktails.</string>
+    <string name="address_restaurant_hf">2277 Peachtree Rd NW, Atlanta, GA 30309</string>
+
+    <string name="name_restaurant_verde">Verde Taqueria</string>
+    <string name="description_restaurant_verde">Mexican eatery draws groups with a varied menu,
+        margaritas and a contemporary space with a patio.</string>
+    <string name="address_restaurant_verde">1426 Dresden Dr NE, Atlanta, GA 30319</string>
+    
+    <string name="name_restaurant_south">South City Kitchen</string>
+    <string name="description_restaurant_south">Set in a 1920s bungalow, this eatery offers
+        inventive takes on Southern favorites plus a fireplace.</string>
+    <string name="address_restaurant_south">1144 Crescent Ave NE, Atlanta, GA 30309</string>
+
+    <string name="name_restaurant_einstein">Einstein\'s</string>
+    <string name="description_restaurant_einstein">Eatery offering creative takes on Southern
+        comfort classics, with a patio and popular weekend brunch.</string>
+    <string name="address_restaurant_einstein">1077 Juniper St NE, Atlanta, GA 30309</string>
+
+    <string name="name_restaurant_zocalo">Zocalo Cantina</string>
+    <string name="description_restaurant_zocalo">Chef Richard Sandoval offers upscale Mexican
+        comfort food and many tequilas in casual, stylish space.</string>
+    <string name="address_restaurant_zocalo">187 10th St NE, Atlanta, GA 30309</string>
+
+
+
+    <!-- Breweries and Distilleries Section-->
+
+    <string name="name_brewery_sweetwater">Sweetwater Brewing Co.</string>
+    <string name="description_brewery_sweetwater">Boisterous, indoor-outdoor microbrewery with
+        tours and taproom plus live music and a dog-friendly patio.</string>
+    <string name="address_brewery_sweetwater">195 Ottley Dr NE, Atlanta, GA 30324</string>
+
+    <string name="name_brewery_monday">Monday Night Brewing</string>
+    <string name="description_brewery_monday">Casual craft brewery featuring a spacious,
+        high-ceiling tasting room and regular tours.</string>
+    <string name="address_brewery_monday">670 Trabert Ave NW, Atlanta, GA 30318</string>
+    
+    <string name="name_brewery_red">Red Brick Brewing Co</string>
+    <string name="description_brewery_red">West Atlanta microbrewery with an outdoor patio
+        and a rotating selection of craft beers.</string>
+    <string name="address_brewery_red">2323 Defoor Hills Rd NW, Atlanta, GA 30318</string>
+
+    <string name="name_brewery_scofflaw">Scofflaw Brewing Co.</string>
+    <string name="description_brewery_scofflaw">Scofflaw is a band of brewing compatriots
+        dedicated to innovation, craftsmanship and expanding the horizons of craft beer
+        in the Southeast.</string>
+    <string name="address_brewery_scofflaw">1738 MacArthur Blvd NW, Atlanta, GA 30318</string>
+
+    <string name="name_brewery_second">Second Self Beer Company</string>
+    <string name="description_brewery_second">Second Self Beer Company, Georgia\'s fast growing
+        craft brewery located in Atlanta, GA making exciting beers designed with food in mind</string>
+    <string name="address_brewery_second">1317 Logan Cir NW, Atlanta, GA 30318</string>
+
+    <string name="name_brewery_taverns">Three Taverns Craft Brewery</string>
+    <string name="description_brewery_taverns">Three Taverns is a Georgia brewery delivering
+        an open-minded American interpretation of traditional Belgian-style beers
+        and more.</string>
+    <string name="address_brewery_taverns">121 New St, Decatur, GA 30030</string>
+    
+    <string name="name_brewery_wild">Wild Heaven Beer</string>
+    <string name="description_brewery_wild">Wild Heaven focuses on an all-grain, no adjunct-sugar
+        brewing philosophy to create bigger flavor without excess alcohol.</string>
+    <string name="address_brewery_wild">135 Maple St B, Avondale Estates, GA 30002</string>
+
+    <string name="name_brewery_eventide">Eventide Brewing</string>
+    <string name="description_brewery_eventide">Cozy microbrewery located in historic Grant Park
+        serving creative craft beers.</string>
+    <string name="address_brewery_eventide">1015 Grant St SE, Atlanta, GA 30315</string>
+    
+    <string name="name_brewery_oldfourth">Old Fourth Distillery</string>
+    <string name="description_brewery_oldfourth">Old Fourth Distillery is a Craft Distillery
+        featuring Vodka and Gin. located in the Old Fourth Ward Area of Atlanta.</string>
+    <string name="address_brewery_oldfourth">487 Edgewood Ave SE, Atlanta, GA 30312</string>
+
+    <string name="name_brewery_asw">Atlanta Spirit Works</string>
+    <string name="description_brewery_asw">Creating world-class southern inspired versions of
+        spirits from all over the world.</string>
+    <string name="address_brewery_asw">199 Armour Dr NE, Atlanta, GA 30324</string>
+</resources>
